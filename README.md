@@ -1,2 +1,20 @@
-# pre-trainingtest-Suhtetgithub
-for num in range(1, 101):     if num % 3 == 0 and num % 5 == 0:         print("FizzBuzz")     elif num % 3 == 0:         print("Fizz")     elif num % 5 == 0:         print("Buzz")     else:         print(num)
+1. Clone this repository to your local machine:
+    ```bash
+    git clone yourown.git
+
+2. Navigate to the repository directory:
+    ```bash
+    cd CSBeginnerBootCamp-PreTest
+    ```
+
+3. Print (1,100)
+     Print 3*("Fizz")
+     Print 5*("Buzz")
+   Print (3*5) instead of "FIzzBuzz"
+   
+5. Command "Completed question X"
+        ```
+    - Push your changes to the remote repository:
+        ```bash
+        git push origin main
+        ```
