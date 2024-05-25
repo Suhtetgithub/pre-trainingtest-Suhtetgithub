@@ -14,7 +14,4 @@
    
 5. Command "Completed question X"
         ```
-    - Push your changes to the remote repository:
-        ```bash
-        git push origin main
-        ```
+   
